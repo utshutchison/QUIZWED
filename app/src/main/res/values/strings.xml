@@ -7,4 +7,6 @@
     <string name="correct_toast">Correct</string>
     <string name="incorrect_toast">Incorrect</string>
     <string name="no_more">No More Questions</string>
+    <string name="title_activity_score">ScoreActivity</string>
+    <string name="score">SCORE STUFF</string>
 </resources>
